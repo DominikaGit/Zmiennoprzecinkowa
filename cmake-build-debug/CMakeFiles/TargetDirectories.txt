@@ -1,0 +1,3 @@
+/home/dominika/GIT/Zmiennoprzecinkowa/cmake-build-debug/CMakeFiles/Zmiennoprzecinkowa.dir
+/home/dominika/GIT/Zmiennoprzecinkowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominika/GIT/Zmiennoprzecinkowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
